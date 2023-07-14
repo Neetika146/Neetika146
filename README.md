@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Neetika Tandon</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:552/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
+<img align="right" alt="Coding" width="320" src="https://www.co-lab.cc/wp-content/uploads/2021/01/Asset-2@8x-600x457.png">
 
 
 
@@ -15,6 +15,7 @@
 
 - 📫 How to reach me **neetikatandon146@gmail.com**
 
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:552/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/neetika tandon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neetika tandon" height="30" width="40" /></a>
